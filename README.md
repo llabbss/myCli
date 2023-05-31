@@ -8,6 +8,6 @@ npm link
 ```
 在需要模板需要clone的位置执行
 ```bash
-my-cli init
+my-cli init react | vue | CMS | ssl
 ```
-按步骤依次选取要拉取的模板即可
+按步骤选即可
