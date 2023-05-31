@@ -1,7 +1,5 @@
-/**
- * @description: 项目模板拉取脚手架，暂时配置了vue和react，添加项在config/index.js里自行添加，不需要供手动添加。
- * @return {*}
- */
+#!/usr/bin/env node
+
 const fs = require("fs");
 const path = require("path");
 const chalk = require("chalk");
