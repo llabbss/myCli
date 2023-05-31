@@ -13,7 +13,6 @@
     "fs-extra": "^9.0.0",
     "inquirer": "^7.1.0"
   },
-  "devDependencies": {},
   "browserslist": [
     "> 1%",
     "last 2 versions"
